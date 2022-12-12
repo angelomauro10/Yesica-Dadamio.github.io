@@ -47,7 +47,7 @@ nav {
 
 nav > a {
   color: #fff;
-  font-weight: 300;
+  font-weight: solid;
   text-decoration: none;
   margin-right: 10px;
 }
